@@ -1,24 +1,24 @@
-# Calculadora Moderna
+# Modern Calculator
 
-Calculadora web simples e bonita com design glassmorphism.
+A clean, stylish web calculator with glassmorphism design.
 
-## Funcionalidades
+## Features
 
-- Operações: + − × ÷ ( )
-- Teclado completo (Enter = calcular, Backspace, Esc/C = limpar)
-- Design responsivo + efeito blur neon
-- Tratamento básico de erros
+- Basic operations: + − × ÷ ( )
+- Full keyboard support (Enter = calculate, Backspace, Esc/C = clear)
+- Responsive + neon blur effect
+- Basic error handling
 
-## Tecnologias
+## Technologies
 
 - HTML5
 - CSS3 (Grid + backdrop-filter)
-- JavaScript puro
+- Vanilla JavaScript
 
-## Como usar
+## How to Use
 
-Abra o `index.html` no navegador.
+Open `index.html` in your browser.
 
-Ou rode localmente:
+Or run locally:
 ```bash
 python -m http.server
